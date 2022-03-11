@@ -1,7 +1,7 @@
 ## Olá eu sou José Matheus!
 
 - 👨‍💻 Trabalho com desenvolvimento Backend
-- 📚 Atualmente estudando Python com FastApi 
+- 📚 Atualmente estudando desenvolvimento backend com Python
 
 
 <div align="center">
