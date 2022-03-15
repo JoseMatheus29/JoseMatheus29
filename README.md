@@ -1,7 +1,6 @@
 ## Olá eu sou José Matheus!
 
-- 👨‍💻 Trabalho com desenvolvimento Backend
-- 📚 Atualmente estudando desenvolvimento backend com Python
+- 📚 Atualmente estudando desenvolvimento backend com NodeJs
 
 
 <div align="center">
