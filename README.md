@@ -1,6 +1,6 @@
 ## Olá eu sou José Matheus!
 
-- 📚 Atualmente estudando desenvolvimento backend com NodeJs
+- 📚 Atualmente estudando desenvolvimento de testes com python
 
 
 <div align="center">
