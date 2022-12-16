@@ -1,6 +1,6 @@
 ## Olá eu sou José Matheus!
 
-- 📚 Atualmente estudando desenvolvimento de testes com python
+- 📚 Atualmente estudando desenvolvimento web.
 
 
 <div align="center">
