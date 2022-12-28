@@ -1,6 +1,6 @@
 ## Olá eu sou José Matheus!
 
-- 📚 Atualmente estudando desenvolvimento web.
+- 📚 Atualmente estudando Quality Assurance (QA).
 
 
 <div align="center">
